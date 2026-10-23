@@ -1,0 +1,23 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "prva vjezba",
+  "homepage": "https://github.com/milalevkova/web-app#readme",
+  "bugs": {
+    "url": "https://github.com/milalevkova/web-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milalevkova/web-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
